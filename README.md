@@ -1,30 +1,38 @@
-# 찾아라 푸드트럭 프로젝트 소개 
+# Find Food Truck Project
 
 
-### 푸드트럭 위치 정보 공유 서비스
+### Project Overview
+A food truck location sharing service that allows users to find, register, and share food truck information.
 
-프로젝트 기간: 
+<b>Project Period</b>
 
-기획 2023. 12. 25 - 2024. 12. 29
+**Planning**  25 December 2023 - 29 December 2023
 
-개발 2024. 01. 01 - 2024. 02. 08
+**Development**  1 January 2024 - 8 February 2024
 
-프로젝트 인원: 프론트엔드 2명, 백엔드 2명
+Team Members - Frontend 2 members, Backend 2 members
 
-프로젝트 포지션: 프론트엔드
+My Role - Frontend Developer
 
-담당 기능: 푸드트럭 상세페이지, 푸드트럭 리뷰/평점 등록, 가계부 기능
+## Responsibilities
+- Developed the food truck detail page
+- Implemented food truck review and rating features
+- Developed personal expense management (ledger) features
 
 
-### 기능
+###  Features
 
-✅ 카카오맵을 이용한 지도 제공
+✅ **Map Service Using Kakao Map API**  
+- Provides an interactive map to display food truck locations
 
-✅ 사용자들이 주도하는 위치 정보 등록 서비스
+✅  **User-driven Location Registration Service**  
+- Allows users to register and share food truck locations
 
-✅ 나의 주변 푸드트럭 위치와 정보 공유
+✅ **Nearby Food Truck Information Sharing**  
+- Enables users to discover nearby food trucks and view related information
 
-## 기술스택
+
+## Tech Stack
 
 ### FrontEnd
 <div>
@@ -44,7 +52,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">   
 </div>
 
-### collaboration
+### Collaboration
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
